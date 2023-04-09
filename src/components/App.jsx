@@ -1,13 +1,5 @@
 import React from "react";
 
-function App(){
+const App = () => <h1>Hello React!!!</h1>
 
-    return(
-        <div id="app">
-            <h1>Hello</h1>
-            <p>webpack is hard</p>
-
-        </div>
-    )
-}
 export default App;
